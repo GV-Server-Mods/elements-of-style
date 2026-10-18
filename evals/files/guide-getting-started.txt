@@ -1,0 +1,46 @@
+Guide: Getting Started															
+
+New players begin their adventure in the Kharak Large Affordable Survivable Spawn Pod (KLASSPOD) and drop into Zone 0 (Z0). Z0 is a safe-ish area for players to build a starter base and get their toes wet by visiting Zone 1 (Z1) to scrap small wrecks. After you spawn, you can visit the NPC stores Crossroads or head to Z1 to scrap your first wreck.
+
+Join or Create a FactionThe very first thing you should do is to be in a faction. Factions receive offline safezone protection for all their large grids (over 50 blocks). If you are too close to enemies or neutrals, you will not receive an offline safezone when logging off. The safezones appear when the last member of the faction logs off of the server. Please look at the In-Game Commands section for a list of offline safezone commands.
+
+Scrapping Your First Wreck Most players make their living on Kharak by scrapping wrecks. Your KASSPOD is pre-equipped with ship grinders, so head towards Z1 (20 km from Crossroads Signal) when ready. Basic hand grinders cannot hack, so you need to use your ship's grinders or buy/assemble a better hand grinder. If traveling by road, you'll see signs indicating Z1. Your KASSPOD is also equipped with a map to help you orient where you are in the zones. Zone 1 and higher are PVP areas, so if you see players and don't feel safe, head back to Z0. It can't hurt to ask for help; most players are friendly to new factions. 
+
+You must be physically in Z1 to find a small wreck. You shouldn't have to wait long until you see a notification for a Small Signal.  Small derelicts spawn within 4km and have a short-range signal, usually unnoticed by other players. You can head towards it and assess your discovery.  
+
+Derelicts have four main parts:
+
+-  Loot cargos
+
+-  Beacon and Remote Control
+
+-  Bounty
+
+-  Weapons and Defenses (medium and large)Loot CargosLoot cargos are cargo containers filled with resources and usually (but not always!) tagged with [Loot] in the cargo's name. You can hack the loot cargos by hand or consume the entire derelict with your ship's grinders. Grinders will pick up items from ground cargo containers, assuming your grid has the inventory space. Some derelicts spawn partially below ground, so you'll need to use a drill to access all the loot.  You can use a Cargo Scanner block to scan a grid to help you get straight to its loot. Sit in a seat and run the scanner for 1 minute, and it will highlight blocks of interest.
+
+Cargo Scanner Colors: 
+
+-  Blue - Cargo
+
+-  Yellow - Production
+
+-  Red - Weapons
+Beacon and Remote ControlDerelicts have a Beacon showing their signal size and prevent the derelict from being deleted by cleanup. Their beacons will be self-disable over time, so wrecks will not stay around forever. If you want to disable the beacon to hide the signal, you should place a temporary beacon on the grid to prevent it from getting deleted on server cleanup. Remove the beacon when you are done because beacons are precious and limited. Beacons also double as Ship Cores (see Spec Cores section), so when you disable the beacon, any limited blocks will be automatically ground down to non-functional and you will lose those that potential salvage.  AI remotes, and Beacons are paired, so if one is disabled, the other will automatically be disabled.
+
+Beacons (aka Ship Cores) are the soul of the grid; if a beacon is removed, the grid will be deleted during the scheduled cleanup. If you disable a wreck's beacon, put a temporary one on the wreck, then be sure to remove it when you are done. Beacons require just one computer and no power to be functional.
+BountiesDerelicts and many other NPCs have bounties. Disabling the beacon or remote control on an NPC will pay out an immediate bounty, and the bigger the NPC, the higher the reward. Disabling a nearby derelict is an excellent option if you need quick cash.
+Weapons and DefensesMedium and Large derelicts (Zone 2 and Zone 3) will have active weapons. The Gaalsien faction is also scavenging for resources, so they will send raiding parties to kill you and take all of the loot for themselves. These weapons can be very valuable, so the faster you can fend off Gaalsien forces and disable the wreck, the more your prize will remain.
+
+Attacking Gaalsien SalvagersGaalsien salvagers can be found picking bits of scrap out of the deserts. They are mostly harmless but will usually run in the sight of danger. They are an excellent source of components and resources if you can catch one. They take skill and patience to tackle and may use their grinder on anything that tries to block their path.
+
+Your First BaseAfter you have scrapped a few wrecks, you will need a place to call home, store salvage, and build bigger rovers. Head back to Z0 and find a safe spot with some flat space to build and park stuff.
+
+Place down a Shield Beacon Core first. Beacons only require one computer and zero power. That is all you need for the grid to avoid cleanup. Next place the Shield Generator and a small power source like a wind turbine. Shield Gens don't require Zone Chips, are cheap to build, and require almost no power. In Z0, it will act like a traditional Safezone, immune to attacks and sieges. The Shield Generator should not be connected to your main base to avoid and inadvertent shutdown if you need to run a command like !fixship or /♥♥♥♥♥♥♥♥ on your base. This will keep you safe from accidental damage and griefers. 
+
+Next, on a separate grid, build your base, starting with a Beacon Core of your choice. Higher-tier cores have higher limits, but you cannot build as many. The Beacon Core will prevent your grid from being deleted by the server's automatic cleanup system. Only basic assemblers and refineries work in Z0, so as you advance, you'll need to spend more and more time in higher zones. You can always keep a backup base in Z0 in case of a disaster or a significant PVP loss.
+
+Weapons and TechWeapons and other advanced blocks require [Tech] in their construction. Basic weapons like gatling guns and autocannons require [Tech] Bolt Carrier, these can be found in small wrecks, and purchased at Rusty's Trade Station in Z0 Crossroads. Be warned, Tech grinds to [Scrap] Tech, which can only be refined by the COALITION but is a free service. See the CUs, RUs, Tech & Scrap section for more details. You can also assemble Bolt Carriers and gatling ammo in the basic assembler. Rare and high-powered guns require resource units to produce ammunition found in medium and large derelicts.
+
+Buy Starter BaserunnerEarly on, upgrading to the Starter Baserunner is highly recommended. This is sold at the COALITION Base in Crossroads. See the Ship Sales section for more details. The Starter Baserunner has significantly more cargo space, upgraded tools, a long-range radar, and a Gatling turret.
+
+Visit NPC Trade StationsRusty's Trade Station in Z0 should be one of your first stops. You can sell off unwanted items and tech and purchase ingots to make components you are having difficulty finding in wrecks. You can also find upgraded tools in the vending machines at trade stations around Kharak. There are four main trade stations, each specializing in different tech, components, or ammo.

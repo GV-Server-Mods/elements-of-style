@@ -1,0 +1,71 @@
+{
+  "skill_name": "elements-of-style",
+  "evals": [
+    {
+      "id": 1,
+      "name": "edit-wordy-github-issue",
+      "prompt": "Tighten up this bug report before I post it to GVK-Settings on GitHub: evals/files/issue-draft.md. Keep all the facts.",
+      "expected_output": "A shorter, definite issue with a plain title, what happens and what should happen stated separately, facts preserved, hedges and padding removed, followed by a short change list.",
+      "files": ["evals/files/issue-draft.md"],
+      "expectations": [
+        "Revised issue body is at most 60% of the original's 312 words",
+        "Keeps every fact: Zone 3, salvaging, a Bomber spawned and attacked, player drove toward Crossroads, about 20 km or more away, returned about 30 minutes later, the Bomber was still there hovering, two more Bombers spawned nearby (three total), suspicion of the despawn trigger",
+        "States expected behavior and actual behavior separately",
+        "Title names the symptom plainly, with no question marks or hedging words",
+        "Revised issue contains none of: 'possibly', 'basically', 'the fact that', 'in terms of', 'foreseeable future', 'Thanks in advance', 'honestly'",
+        "Reply lists the main changes made"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "revise-steam-guide-getting-started",
+      "prompt": "This is the Getting Started section of my server's Steam guide: evals/files/guide-getting-started.txt. Rewrite it so it reads better for brand-new players. Don't drop any facts.",
+      "expected_output": "Revised section in the user's voice, all facts kept, the KLASSPOD/KASSPOD mismatch flagged rather than silently resolved, change list.",
+      "files": ["evals/files/guide-getting-started.txt"],
+      "expectations": [
+        "Keeps the faction facts: join a faction first; offline safezone for large grids over 50 blocks; none when enemies or neutrals are too close; it appears when the last member logs off",
+        "Keeps the first-wreck facts: pod has ship grinders; Z1 starts 20 km from Crossroads; basic hand grinders cannot hack; road signs mark Z1; pod has a map; Z1 and up are PvP; small derelicts spawn within 4 km with a short-range signal",
+        "Keeps the derelict facts: four parts; [Loot] tag not always present; drill for buried loot; cargo scanner needs 1 minute seated, with blue/yellow/red colors; wreck beacons self-disable; place a temporary beacon and remove it after; disabling the beacon grinds limited blocks; beacon and AI remote are paired; beacons need one computer and no power",
+        "Keeps the base, tech, and trade facts: Shield Beacon Core first; shield generator on a separate grid from the base; Z0 shields act like safezones; only basic production in Z0; Bolt Carrier sources; NPC tech grinds to scrap that COALITION refines free; Starter Baserunner sold at COALITION Base; Rusty's Trade Station; four trade stations",
+        "Uses one spelling for the spawn pod throughout (KLASSPOD), or flags the KLASSPOD/KASSPOD mismatch to the user",
+        "Restores the run-together sub-headings as separate headings",
+        "Revised section is no longer than the original's 1254 words",
+        "Reply lists the main changes or questions for the user"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "proofread-readme-note",
+      "prompt": "Proofread this README note before I commit it: evals/files/readme-note.md",
+      "expected_output": "Corrected note fixing all eight planted errors, with a list of fixes.",
+      "files": ["evals/files/readme-note.md"],
+      "expectations": [
+        "Fixes the comma splice after 'inside a safe zone'",
+        "Changes 'it's target' to 'its target'",
+        "Fixes the dangling modifier 'Spawning inside Zone 1, the target profile...'",
+        "Replaces 'utilize' with 'use'",
+        "Adds the serial comma before 'and KHAANEPH haulers'",
+        "Replaces 'Irregardless' with 'Regardless'",
+        "Replaces 'Due to the fact that' with 'Because' or 'Since'",
+        "Fixes 'works different than' (to 'differently from' or a rephrase)",
+        "Leaves the IDs, numbers, and faction tags unchanged (COALITION, DERELICT, KHAANEPH, 800 m, 5 seconds)"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "write-zones-at-a-glance",
+      "prompt": "Using the World Overview section of my Steam guide (evals/files/guide-world-overview.txt) as the source, write a new 'Zones at a glance' section for brand-new players. Keep it under 250 words.",
+      "expected_output": "A concise, concrete section (likely a table) covering Z0-Z3 distances, safety, and what is there, under 250 words, facts accurate to the source.",
+      "files": ["evals/files/guide-world-overview.txt"],
+      "expectations": [
+        "New section is under 250 words",
+        "Gives correct distances: Z0 0-20 km, Z1 20-34.5 km, Z2 34.5-52 km, Z3 beyond 52 km",
+        "Says Z0 has no PvP and weapons are disabled there",
+        "Warns that Zone 1 weapons can reach 4 km into Zone 0",
+        "Mentions that wrecks only appear for players who are online, in the zone, and moving",
+        "Presents the zones in a table or a parallel list",
+        "Adds no facts that are absent from the source"
+      ]
+    }
+  ]
+}

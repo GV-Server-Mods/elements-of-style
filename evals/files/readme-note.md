@@ -1,0 +1,3 @@
+### Note 41: Encounter Turrets and the safe zone
+
+Encounter Turrets utilize a custom target profile so they ignore grids inside a safe zone, this keeps them from wasting ammo on targets they cannot damage. Each turret checks it's target every 5 seconds. Spawning inside Zone 1, the target profile limits the turret to grids within 800 m. The profile works different than the one used by Units: it skips COALITION grids, DERELICT wrecks and KHAANEPH haulers. Irregardless of the zone, the turret will not fire at a grid that has a working safe zone. Due to the fact that safe zones block damage entirely, this is the intended behavior.

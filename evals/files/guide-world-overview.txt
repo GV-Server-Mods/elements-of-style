@@ -1,0 +1,87 @@
+## 
+Kharak World Overview															
+
+Welcome to GV: Deserts of Kharak (GVK), Season 10!GVK is a PvPvE, single planet, rovers-only server (with some limited flyers and hovers) themed after the legendary Homeworld: Deserts of Kharak game by Blackbird Interactive. The gameplay focuses on surviving in the harsh desert while fighting over scarce technology that can only be obtained through PvE encounters, which drive intense PvP battles. Players can scout, fight, salvage, mine, haul, and trade to thrive. PvE encounters include crashed wrecks, drones, cargo ships, convoys, trade stations, and King Of The Hill.
+
+3D Interactive MapAn updated community 3D interactive map is now available.[tcpoole.com]
+
+Kharak's topography is based on the vanilla planet Pertam, which has been highly modified with smooth roads, higher peaks, traversable canyons, and fun slopes. Most of the planet's surface is breathable, with the exception of the highest mountains. The Crossroads Region (Crossroads Island and surrounding area) is controlled by the Coalition of the Northern Kiithid (COALITION), and the Far East Desert is controlled by Kiith Gaalsien (GAALSIEN). COALITION is friendly to the player, but GAALSIEN is hostile. 
+
+Kharak ZonesThe COALITION has identified four zones of increasing hostility with GAALSIEN.
+
+Distances are approximate:            Zone        Distance from Crossroads                Z0        0 - 20km                Z1        20km to 34.5km                Z2        34.5km to 52km                Z3        >52km    
+
+Zone 0 New Players land in Zone 0. The COALITION controls the Crossroads Island and its 20km vicinity and is safe to the player, but the COALITION does not allow weapons or atmosphere-damaging production (weapons, large production, and most drills will be turned off, but basic production and basic static drills will still work). This is the primary starting point for new players. Factions Shield Generators are not siegable by other factions in this region. Valuable ores such as Uranium, Gold, and Platinum have been completely mined out of the area. When you are within 20km of the COALITION.Crossroads Tower antenna signal, then you are in Zone 0.
+CAUTION: The border between Zone 0 and 1 is dangerous. Weapons in Zone 1 can still fire up to 4km into Zone 0. Therefore, players should reside at least 4km inside the Zone 0 border and use their Shield Generator.
+Items of interest:
+-  Coalition Base/Tech Scrap Refinery
+
+-  Basic Rover Store
+
+-  Randy's Trade Station
+
+-  Crossroads Tower
+
+-  Crossroads Village
+
+-  Crossroads BridgesZone 1Small wrecks and derelicts from destroyed GAALSIEN patrols can be found in this region. Small wrecks provide vital salvage and technology for fledgling factions and pose no immediate threat to players. Large-scale production is also not permitted in this area. Weapons and all drills are enabled in this and subsequent regions.
+Items of interest:
+-  Skyport Trade Station
+
+-  Small Signals
+
+-  Gaalsien Salvagers
+
+-  Cargo Ships
+
+-  Rare Ores
+
+-  Ice DepositsZone 2Small and Medium wrecks and derelicts can be found in this region. Medium wrecks are the remains of larger GAALSIEN patrols and contain much more loot and supplies than small wrecks, but can occasionally have small defenses. These are often places of conflict between other warring factions as they fight for supplies. Large-scale production can be used in this area.
+Items of interest:
+-  Mastodon Trade Station
+
+-  Tech Scrap Refinery
+
+-  Small Signals
+
+-  Medium Signals
+
+-  Massive Ancient Wrecks
+
+-  Gaalsien Salvagers
+
+-  Cargo Ships
+
+-  Gaalsien and Coalition Encounters
+
+-  Rare Ores
+
+-  Ice DepositsZone 3The East Desert, the heart of GAALSIEN territory. This region is not only home to GAALSIEN but also home to many warring factions. Players can find Large Wrecks and even damaged and abandoned buildings. Large wrecks carry highly sought-after loot, including relic weapon ammo, large amounts of tech, and highly advanced Data Cores. These wrecks are often well-defended and highly contested, but they provide the best payouts. A trade station in the East Desert has wares and rovers for sale.
+Items of interest:
+-  Sevastopol Trade Station
+
+-  Advanced Rover Store
+
+-  Tech Scrap Refinery
+
+-  Small Signals
+
+-  Medium Signals
+
+-  Large Signals
+
+-  Massive Ancient Wrecks
+
+-  Cargo Ships
+
+-  Gaalsien Salvagers
+
+-  Gaalsien Bases
+
+-  Gaalsien Convoys
+
+-  Gaalsien Cruisers
+
+-  Rare Ores
+
+-  Ice DepositsNote: Players must be online, physically located in the zone, and not stationary to get the respective wrecks to appear.								
