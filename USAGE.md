@@ -1,11 +1,11 @@
 # Usage, form, and commonly misused words
 
-The proofreading pass for [SKILL.md](SKILL.md) step 4: the guidance in Chapters I, III, and IV of *The Elements of Style*, restated in our own words and examples. Advice that no longer fits modern or technical usage is adapted; the changes are listed at the end.
+The proofreading step of both passes in [SKILL.md](SKILL.md): the guidance in Chapters I, III, and IV of *The Elements of Style*, restated in our own words and examples. Advice that no longer fits modern or technical usage is adapted; the changes are listed at the end.
 
 ## Punctuation and grammar (Chapter I)
 
 1. **Singular possessives** take *'s* whatever the final letter: *James's turret*, *the boss's call*. Exceptions: *Jesus'*, ancient names ending in *-es* or *-is*, and fixed phrases like *for goodness' sake*. Possessive pronouns (*its, hers, theirs, yours, ours*) take no apostrophe; *it's* means "it is". Indefinite pronouns do take one: *someone's grid*.
-2. **Serial comma.** In a list of three or more joined by one *and* or *or*, put a comma after every item but the last: *iron, nickel, and silicon*. Company names follow the company's own style.
+2. **Serial comma.** In a list of three or more joined by one *and* or *or*, put a comma after every item but the last: *iron, nickel, and silicon*. Use it even where the surrounding document leaves it out. Company names follow the company's own style.
 3. **Interrupting phrases get a comma on both sides**, never just one: *The convoy, if left alone, stays on the road.* If the interruption is slight (*however*, one short phrase), both commas may go.
    - Commas also set off names in direct address, *etc., i.e., e.g.*, degrees and titles after a name (*Ana Ruiz, PhD,*), and the year in *May 4, 2026,* mid-sentence. *4 May 2026* takes no comma.
    - No comma before a defining label: *the modder Ana*, *Jack the Ripper*. *Jr.* takes no comma.

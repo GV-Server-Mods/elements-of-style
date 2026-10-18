@@ -7,16 +7,30 @@ description: Strunk & White's Elements of Style, adapted for technical and playe
 
 The principles of Strunk & White's *The Elements of Style* (4th ed., 2000), restated in our own words and examples and adapted for documentation, issue trackers, coursework, and game text. Tags such as R14 or V8 give the matching rule in the book, for anyone who wants to look it up.
 
-Picture the reader as lost and short on time. Every rule below exists to get that reader to the point quickly and leave no doubt about what you mean.
+Picture the reader as lost and short on time. Every rule below exists to get that reader to the point quickly and leave no doubt about what you mean. Judge a version by how easily the reader follows it, not by its word count: a longer version that reads more clearly is the better one.
 
-## Steps
+## Pick the pass
 
-1. **Plan.** Name the reader and what they must know or do when they finish. Pick the shape before the first sentence: numbered steps for a how-to, a table for many like items, an issue as *what happens / what should happen / how to reproduce*. Done when you can state the point in one sentence.
+Size the effort to the piece.
+
+- **Light pass**: short engineering text, such as README notes, GitHub issues and PRs, commit messages, release notes, and code comments. Engineers read these for the facts, in a terse register they already expect.
+- **Full pass**: writing aimed at readers, such as server guides, player explanations, long docs, coursework, and in-game text.
+
+### Light pass
+
+1. **Proofread** against [USAGE.md](USAGE.md).
+2. **Tighten.** Cut padding, softeners, and hedges on things the writer saw firsthand (R15, R17, V8). Keep the writer's shape and terse register. Add a heading or section only when the reader could not find something without it.
+
+### Full pass
+
+1. **Plan.** Name the reader and what they must know or do when they finish. Pick the shape before the first sentence: numbered steps for a how-to, a table for many like items, short sections under headings for a guide. Done when you can state the point in one sentence.
 2. **Draft** plainly, in the words that come to you first. Polish belongs to step 3.
 3. **Revise.** Reread as the reader would. Apply every composition rule to every paragraph: cut, move, recast. Large rearrangements are normal at this stage, even for skilled writers. Done when each paragraph has passed the whole list.
-4. **Proofread** anything that will be published or kept (docs, guides, issues, READMEs, papers, in-game text) against [USAGE.md](USAGE.md): punctuation, form, and words people often get wrong.
+4. **Proofread** against [USAGE.md](USAGE.md): punctuation, form, and words people often get wrong.
 
-**Editing someone else's draft**: keep their voice, their meaning, and whatever structure works. Change only what a rule justifies. Return the revised text, then a short list of the main changes, each tagged with its rule. Where the meaning is unclear, ask: rewriting a vague sentence means guessing what the writer intended.
+**The writer owns the facts** (either pass). Take their facts, numbers, and guesses as given, and change only how they are said. This skill covers style; checking facts is a separate job.
+
+**Editing someone else's draft** (either pass): keep their voice, their meaning, and whatever structure works. Change only what a rule justifies. Return the revised text, then a short list of the main changes, each tagged with its rule. Where the meaning is unclear, ask: rewriting a vague sentence means guessing what the writer intended.
 
 ## Composition rules
 

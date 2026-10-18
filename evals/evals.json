@@ -8,11 +8,11 @@
       "expected_output": "A shorter, definite issue with a plain title, what happens and what should happen stated separately, facts preserved, hedges and padding removed, followed by a short change list.",
       "files": ["evals/files/issue-draft.md"],
       "expectations": [
-        "Revised issue body is at most 60% of the original's 312 words",
         "Keeps every fact: Zone 3, salvaging, a Bomber spawned and attacked, player drove toward Crossroads, about 20 km or more away, returned about 30 minutes later, the Bomber was still there hovering, two more Bombers spawned nearby (three total), suspicion of the despawn trigger",
         "States expected behavior and actual behavior separately",
         "Title names the symptom plainly, with no question marks or hedging words",
-        "Revised issue contains none of: 'possibly', 'basically', 'the fact that', 'in terms of', 'foreseeable future', 'Thanks in advance', 'honestly'",
+        "Hedges remain only where the writer was unsure (the cause, the exact distance), not on what they saw",
+        "Revised issue contains none of: 'basically', 'the fact that', 'in terms of', 'foreseeable future', 'Thanks in advance', 'honestly'",
         "Reply lists the main changes made"
       ]
     },
@@ -29,7 +29,6 @@
         "Keeps the base, tech, and trade facts: Shield Beacon Core first; shield generator on a separate grid from the base; Z0 shields act like safezones; only basic production in Z0; Bolt Carrier sources; NPC tech grinds to scrap that COALITION refines free; Starter Baserunner sold at COALITION Base; Rusty's Trade Station; four trade stations",
         "Uses one spelling for the spawn pod throughout (KLASSPOD), or flags the KLASSPOD/KASSPOD mismatch to the user",
         "Restores the run-together sub-headings as separate headings",
-        "Revised section is no longer than the original's 1254 words",
         "Reply lists the main changes or questions for the user"
       ]
     },
